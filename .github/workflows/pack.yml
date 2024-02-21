@@ -28,16 +28,16 @@ jobs:
         run: npm run build-action
 
       - name: Unzip extension
-        run: unzip -qq ../OldTwitterChrome.zip -d OldTwitterChrome; unzip -qq ../OldTwitterFirefox.zip -d OldTwitterFirefox
+        run: unzip -qq ../RetroXLayoutChrome.zip -d RetroXLayoutChrome; unzip -qq ../RetroXLayoutFirefox.zip -d RetroXLayoutFirefox
         working-directory: ${{ github.workspace }}
         
       - name: Upload for Firefox
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: OldTwitterFirefox
-          path: ${{ github.workspace }}/OldTwitterFirefox
+          name: RetroXLayoutFirefox
+          path: ${{ github.workspace }}/RetroXLayoutFirefox
       - name: Upload for Chromium
         uses: actions/upload-artifact@v3.1.2
         with:
-          name: OldTwitterChrome
-          path: ${{ github.workspace }}/OldTwitterChrome
+          name: RetroXLayoutChrome
+          path: ${{ github.workspace }}/RetroXLayoutChrome
