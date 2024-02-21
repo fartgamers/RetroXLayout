@@ -6,3 +6,5 @@ Introducing RetroXLayout, a fork of OldTwitter https://github.com/dimdenGD/OldTw
 
 ## Screenshots
 I don't know how to put screenshots here, so you're just going to have to install it to see what it looks like. Fun!
+
+<!-- // animal crossing happy home designer -->
