@@ -1,5 +1,7 @@
 # RetroXLayout
 
+**Currently, only English is supported!**
+
 Remember back when X was called Twitter? Now you can experience those nostalgic vibes with the comfort of the brand you know and love!
 
 Introducing RetroXLayout, a fork of OldTwitter https://github.com/dimdenGD/OldTwitter! What's a fork, isn't that what you eat with?!

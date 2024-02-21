@@ -1,7 +1,7 @@
 {
-  "name": "oldtwitter",
+  "name": "retroxlayout",
   "version": "0.0.0",
-  "description": "Extension to return old Twitter layout from 2015.",
+  "description": "extention to make x retro again!",
   "main": "pack.js",
   "scripts": {
     "test": "node test.js",

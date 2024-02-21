@@ -121,7 +121,7 @@ input, textarea {
     padding-left: 50px;
 }
 #twitter-logo:before {
-    content: "\f179";
+    content: "𝕏";
     vertical-align: sub;
     font-family: var(--icon-font);
     font-size: 22px;

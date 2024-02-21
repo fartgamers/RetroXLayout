@@ -8,7 +8,7 @@
 
 #loading-box-text:before {
     color: #1da1f2;
-    content: "\f179";
+    content: "𝕏";
     font: 64px var(--icon-font);;
     margin-left: 20px;
     vertical-align: sub
