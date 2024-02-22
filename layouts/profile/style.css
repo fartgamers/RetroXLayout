@@ -7,7 +7,7 @@
 }
 
 #loading-box-text:before {
-    content: "𝕏";
+    content: "\f179";
     vertical-align: sub;
     color: #1da1f2;
     margin-left: 20px;
